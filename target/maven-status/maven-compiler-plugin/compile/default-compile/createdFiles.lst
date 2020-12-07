@@ -1,0 +1,9 @@
+vertexcover/Vertice.class
+vertexcover/Utils.class
+vertexcover/CoverVertex.class
+vertexcover/Edge.class
+vertexcover/Parser.class
+vertexcover/Graph.class
+vertexcover/Main.class
+vertexcover/PrintResult.class
+vertexcover/SortVertices.class
